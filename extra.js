@@ -82,7 +82,7 @@ console.log(percentage(19209, 56))
  Write a piece of code for checking if a given number is even or odd.
 */
 
-number = 60
+let number = 60
 result = number % 2 == 0 ? ("even") : ("odd")
 console.log("\n"+number +" is an " + result + " number")
 
